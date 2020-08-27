@@ -1,6 +1,6 @@
 baseURL = "https://lolcode-docs.netlify.app"
 languageCode = "en-us"
 title = "LOLCODE Documentation"
-theme = "book"
+theme = "hugo-book-master"
 [params]
     BookSearch = true
