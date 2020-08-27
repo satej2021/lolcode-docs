@@ -4,7 +4,7 @@ public_folder: /images
 backend:
   name: github
   branch: master
-  repo: cfjedimaster/the-jamstack-book/tree/master/chapter4/lolcode
+  repo: remotesynth/lolcode
   open_authoring: true
 collections:
   - name: pages
