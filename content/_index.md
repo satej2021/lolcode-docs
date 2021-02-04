@@ -2,7 +2,7 @@
 title: LOLCODE
 ---
 
-![LOLCODE](/images/lolcode.png)
+![LOLCODE](/images/logo.png)
 
 # LOLCODE
 
